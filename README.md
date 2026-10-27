@@ -39,4 +39,3 @@ Also learning Google ADK (Agent Development Kit) and building AI agents with n8n
 
 - GitHub: [@A2wkiller](https://github.com/A2wkiller)
 - LinkedIn: [vaibhav-jain](https://www.linkedin.com/in/vaibhav-jain-45a346325/)
-- Email: vaibhavjain0217@gmail.com
